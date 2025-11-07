@@ -16,22 +16,6 @@ I’m a **Full-Stack Developer** from Brazil, passionate about leveraging techno
 - **JavaScript Frameworks**: React, Node.js, Express
 - **C Libraries**: Standard Library, GTK+
 
-## 🚀 Current Projects
-
-### Tech Strawberry
-A **IoT system** for farms. This project focuses on collecting and analyzing sensor data to optimize farming practices. 
-
-- **Features**:
-  - Receives readings from various IoT sensors
-  - Tracks date, time, temperature, humidity, and solar radiation index
-  - Saves data to a structured database for analysis and reporting
-
-## 🎯 Future Goals
-
-- **Graduate** in **System Analysis and Development**
-- **Develop innovative projects** that align with my vision of a solar punk future
-- **Contribute** to open-source projects and collaborate with like-minded individuals
-
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Avila Cainan](https://www.linkedin.com/in/avilacainan/)
