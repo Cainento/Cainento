@@ -1,5 +1,5 @@
 # Hello! I'm Avila Cainan 👋
-![Solar Punk Landscape](https://media.discordapp.net/attachments/1255945087192531069/1258082629245337634/cainento_Vibrant_futuristic_banner_for_a_GitHub_profile_page_of_fb95c8d6-6e63-442b-85fb-01669294b47e.png?ex=6686c040&is=66856ec0&hm=c1373d9f79e040d8d0a6981733f498b4a32c453767eb36ab1e093f6477066e55&=&format=webp&quality=lossless&width=1440&height=360)
+
 ## 🌍 About Me
 
 I’m a **Full-Stack Developer** from Brazil, passionate about leveraging technology to create a better and more sustainable world. My journey in tech is driven by a vision of a **solar punk future**, where innovative solutions and AI work together to improve our lives and environment. Currently, I’m working on exciting projects and continuously learning to refine my skills.
